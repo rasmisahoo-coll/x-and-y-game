@@ -26,19 +26,20 @@ html {
 }
 .button-option {
   background: #ffffff;
-  height: 22vmin;
-  width: 22vmin;
-  border: none;
+  height: 20vmin;
+  width: 20vmin;
+  border: 10px;
   border-radius: 8px;
   font-size: 12vmin;
-  color: #d161ff;
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  color: #0b21eb;
+  box-shadow: 0 0 15px rgba(231, 12, 12, 0.1);
+  
 }
 #restart {
   font-size: 1.3em;
   padding: 1em;
   border-radius: 8px;
-  background-color: #eb2ddb;
+  background-color: #31fbf4;
   color: #0a0101;
   border: none;
   position: relative;
@@ -61,7 +62,7 @@ html {
 #new-game {
   font-size: 0.6em;
   padding: 0.5em 1em;
-  background-color: #ea21ae;
+  background-color: #ec62c2;
   color: #6bee20;
   border-radius: 0.2em;
   border: none;
